@@ -6,6 +6,10 @@ ADS-508-team-project
 
 # Contributors
 
+- Amayrani Balbuena
+- Jun Clemente
+- Lorena Dorado
+
 # Methods
 
 # Technologies
@@ -26,13 +30,12 @@ Our team represents the data science department at Lunara Tech, a consulting fir
 
 # Non-Goals
 
-1. Individual Employee Health Tracking: Data collection will not involve personally identifiable health data of employees. 
-2. Legal Compliance Advisory: Legal guidance on labor laws, OSHA or Cal/OSHA requirements, or healthcare regulation will not be provided. 
-3. Medical or Clinical Recommendations: Medical treatments, vaccination protocols, or individual health interventions will not be prescribed or evaluated. 
+1. Individual Employee Health Tracking: Data collection will not involve personally identifiable health data of employees.
+2. Legal Compliance Advisory: Legal guidance on labor laws, OSHA or Cal/OSHA requirements, or healthcare regulation will not be provided.
+3. Medical or Clinical Recommendations: Medical treatments, vaccination protocols, or individual health interventions will not be prescribed or evaluated.
 
 # Data Sources
 
 # References
 
 # Presentations and Projects
-
