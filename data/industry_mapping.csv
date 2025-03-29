@@ -1,0 +1,84 @@
+industry_code_industry,industry_year_avg_industry
+"Crop production","All industries"
+"Animal production and aquaculture","All industries"
+"Forestry and logging","All industries"
+"Fishing, hunting, and trapping","All industries"
+"Support activities for agriculture and forestry","All industries"
+"Oil and gas extraction","All industries"
+"Mining (except oil and gas)","All industries"
+"Support activities for mining","All industries"
+Utilities,Utilities
+Construction,Construction
+"Food manufacturing",Manufacturing
+"Beverage and tobacco product manufacturing",Manufacturing
+"Textile mills",Manufacturing
+"Textile product mills",Manufacturing
+"Apparel manufacturing",Manufacturing
+"Leather and allied product manufacturing",Manufacturing
+"Wood product manufacturing",Manufacturing
+"Paper manufacturing",Manufacturing
+"Printing and related support activities",Manufacturing
+"Petroleum and coal products manufacturing",Manufacturing
+"Chemical manufacturing",Manufacturing
+"Plastics and rubber products manufacturing",Manufacturing
+"Nonmetallic mineral product manufacturing",Manufacturing
+"Primary metal manufacturing",Manufacturing
+"Fabricated metal product manufacturing",Manufacturing
+"Machinery manufacturing",Manufacturing
+"Computer and electronic product manufacturing",Manufacturing
+"Electrical equipment, appliance, and component manufacturing",Manufacturing
+"Transportation equipment manufacturing",Manufacturing
+"Furniture and related product manufacturing",Manufacturing
+"Miscellaneous manufacturing",Manufacturing
+"Merchant wholesalers, durable goods","Wholesale trade"
+"Merchant wholesalers, nondurable goods","Wholesale trade"
+"Non-specified wholesale trade","Wholesale trade"
+"Motor vehicle and parts dealers","Retail trade"
+"Furniture and home furnishings stores","Retail trade"
+"Electronic and appliance stores","Retail trade"
+"Building material and garden equipment and supplies dealers","Retail trade"
+"Food and beverage stores","Retail trade"
+"Health and personal care stores","Retail trade"
+"Gasoline stations","Retail trade"
+"Clothing, shoe, jewelry, luggage, and leather goods stores","Retail trade"
+"Sporting goods, camera, hobby, book and music stores","Retail trade"
+"General merchandise stores","Retail trade"
+"Miscellaneous store retailers","Retail trade"
+"Nonstore retailers and non-specified retail trade","Retail trade"
+"Transportation (including support activities for transportation)","Transportation and warehousing"
+"Postal service, couriers, and messengers","Transportation and warehousing"
+"Warehousing and storage","Transportation and warehousing"
+"Newspaper, periodical, book, and software publishing industries",Information
+"Motion picture, video, and sound recording industries",Information
+"Broadcasting and telecommunications",Information
+"Libraries and archives, internet publishing, web search portals, data processing and hosting services, and other information services",Information
+"Monetary authorities - central bank","Finance and insurance"
+"Credit intermediation and related activities","Credit intermediation"
+"Securities, commodity contracts, and other financial investments and related activities","Finance and insurance"
+"Insurance carriers and related activities","Insurance carriers"
+"Real estate","Real estate and rental and leasing"
+"Automotive and other consumer goods rental and leasing services","Real estate and rental and leasing"
+"Commercial, industrial, and other intangible assets (except copyrighted works)","Real estate and rental and leasing"
+"Professional, scientific, and technical services industries","Professional, scientific, and technical services"
+"Management of companies and enterprises industries","Administrative and support and waste management and remediation services"
+"Administrative, support, waste management, and remediation services","Administrative and support and waste management and remediation services"
+"Education services","Educational services"
+"Ambulatory health care services","Health care and social assistance"
+Hospitals,Hospitals
+"Nursing and residential care facilities","Health care and social assistance"
+"Social assistance","Health care and social assistance"
+"Performing arts, spectator sports, promoters, agents, artists, writers and related industries","Leisure and hospitality"
+"Museums, historical sites, and similar institutions","Leisure and hospitality"
+"Amusement, gambling, and recreation industries","Leisure and hospitality"
+Accommodation,"Accommodation and food services"
+"Food services and drinking places","Accommodation and food services"
+"Repair and maintenance","Other services (except public administration)"
+"Personal services (barber shops, beauty salons, nail salons, laundry, funeral homes and cemeteries)","Other services (except public administration)"
+"Religious, grantmaking, civic, labor, professional, and similar organizations","Other services (except public administration)"
+"Private households","Other services (except public administration)"
+"Public administration","Public administration"
+"Armed forces","All industries"
+"Refused, classified, etc.","All industries"
+"Not ascertained","All industries"
+"Don't know","All industries"
+"Not in universe","All industries"
