@@ -1,4 +1,4 @@
-# Health Policy Optimizatiojn
+# Health Policy Optimization
 
 ADS-508-team-project
 
