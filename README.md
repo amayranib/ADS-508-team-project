@@ -1,22 +1,22 @@
-# Health Policy Optimization Project
+# Optimizing Workplace Health Policies Through Predictive Analytics With AWS
 
 ADS508 - Cloud Computing  
 Team 1
 
 ## Installation
 
-To get started with this project, please clone the repository into your local machine using the commands below:  
+To get started with this project, please clone the repository into your local machine using the commands below:
 
 ```bash
 git clone https://github.com/amayranib/ADS-508-team-project.git
 cd ADS-508-team-project
-``` 
+```
 
 ## Contributors
 
 **Company Name**: Lunara Tech  
 **Industry**: Business Intelligence for HR & Employee Benefits  
-**Size**: 200  
+**Size**: 200
 
 - Amayrani Balbuena
 - Jun Clemente
@@ -24,20 +24,20 @@ cd ADS-508-team-project
 
 ## Methods
 
-* Exploratory Data Analysis
-* Pre-processing
-* Data Visualization
-* Statistical Modeling
+- Exploratory Data Analysis
+- Pre-processing
+- Data Visualization
+- Statistical Modeling
 
 ## Technologies
 
-* Amazon Web Services:
-  * Sagemaker
-  * Athena
-  * S3
-* Jupyter Notebook
-* Python / Pandas
-* Google Docs
+- Amazon Web Services:
+  - Sagemaker
+  - Athena
+  - S3
+- Jupyter Notebook
+- Python / Pandas
+- Google Docs
 
 ## Abstract
 
@@ -62,18 +62,29 @@ Our team represents the data science department at Lunara Tech, a consulting fir
 ## Data Sources
 
 1. CDC/National Center for Health Statistics
-    * CDC National Health Interview Survey
-    * ~30,000+ records annually
-    * [https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html](https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html)
+
+   - Source: [https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html](https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html)
+   - Description: CDC National Health Interview Survey (NHIS)
+   - Size: ~30,000+ records annually; 534-647 variables
+
 2. U.S. Bureau of Labor Statistics
-    * Bureau of Labor Statistics (BLIS) Employee Benefits Survey
-    * Data from 15,000+ establishments
-    * [https://www.bls.gov/ebs/publications/annual-benefits-summary.htm](https://www.bls.gov/ebs/publications/annual-benefits-summary.htm)
+
+   - Source: [https://www.bls.gov/ebs/publications/annual-benefits-summary.htm](https://www.bls.gov/ebs/publications/annual-benefits-summary.htm)
+   - Description: Bureau of Labor Statistics (BLIS) Employee Benefits Survey
+   - Size: Data from 15,000+ establishments, 24 variables
+
 3. University of Wisconsin Population Health Institute
-    * County Health Rankings Dataset
-    * Data for 3,000+ US Counties
-    * [https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)
+   - Source: [https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)
+   - Description: County Health Rankings Dataset
+   - Size: 3,000+ US Counties, 500-700+ variables
 
 ## References
 
+- CDC (2024). 2023 NHIS questionnaires, datasets, and documentation. National Center for Health Statistics. https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html
+- Fregly, C., & Barth, A. (2021). Data science on AWS. O'Reilly.
+- Fregly, C., Barth, A., & Eigenbrode, S. (2023). Generative AI on AWS. O'Reilly.
+
 ## Presentations and Projects
+
+- Video Presentation: [Link to Canva Presentation]
+- Project Notebook: [Link to jupyter notebook]
