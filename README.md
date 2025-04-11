@@ -12,6 +12,8 @@ git clone https://github.com/amayranib/ADS-508-team-project.git
 cd ADS-508-team-project
 ```
 
+To execute the pipeline, run the `/code_library/master_notebook.ipynb`. 
+
 ## Contributors
 
 **Company Name**: Lunara Tech  
