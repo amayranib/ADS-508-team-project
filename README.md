@@ -38,6 +38,8 @@ cd ADS-508-team-project
 - Jupyter Notebook
 - Python / Pandas
 - Google Docs
+- Generative AI
+   - ChatGPT
 
 ## Abstract
 
@@ -77,6 +79,10 @@ Our team represents the data science department at Lunara Tech, a consulting fir
    - Source: [https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation](https://www.countyhealthrankings.org/health-data/methodology-and-sources/data-documentation)
    - Description: County Health Rankings Dataset
    - Size: 3,000+ US Counties, 500-700+ variables
+
+## Acknowledgments
+
+Portions of this codebase and documentation were developed with assistance from ChatGPT (OpenAI), April 2025.
 
 ## References
 
