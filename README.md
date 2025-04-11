@@ -12,6 +12,8 @@ git clone https://github.com/amayranib/ADS-508-team-project.git
 cd ADS-508-team-project
 ```
 
+To execute the pipeline, run the `/code_library/master_notebook.ipynb`. 
+
 ## Contributors
 
 **Company Name**: Lunara Tech  
@@ -38,6 +40,8 @@ cd ADS-508-team-project
 - Jupyter Notebook
 - Python / Pandas
 - Google Docs
+- Generative AI
+   - ChatGPT
 
 ## Abstract
 
@@ -78,6 +82,10 @@ Our team represents the data science department at Lunara Tech, a consulting fir
    - Description: County Health Rankings Dataset
    - Size: 3,000+ US Counties, 500-700+ variables
 
+## Acknowledgments
+
+Portions of this codebase and documentation were developed with assistance from ChatGPT (OpenAI), April 2025.
+
 ## References
 
 - CDC (2024). 2023 NHIS questionnaires, datasets, and documentation. National Center for Health Statistics. https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html
@@ -87,4 +95,4 @@ Our team represents the data science department at Lunara Tech, a consulting fir
 ## Presentations and Projects
 
 - Video Presentation: [Link to Canva Presentation]
-- Project Notebook: [Link to jupyter notebook]
+- Project Notebook: [Code Library Folder](code_library)
