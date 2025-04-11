@@ -87,4 +87,4 @@ Our team represents the data science department at Lunara Tech, a consulting fir
 ## Presentations and Projects
 
 - Video Presentation: [Link to Canva Presentation]
-- Project Notebook: [Link to jupyter notebook]
+- Project Notebook: [Code Library Folder](code_library)
