@@ -95,7 +95,9 @@ Portions of this codebase and documentation were developed with assistance from 
 
 ## References
 
-- CDC (2024). 2023 NHIS questionnaires, datasets, and documentation. National Center for Health Statistics. https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html
+- CDC (2024). 2023 NHIS questionnaires, datasets, and documentation. National Center for Health Statistics. [https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html](https://www.cdc.gov/nchs/nhis/documentation/2023-nhis.html)
+- CDC Foundation. (2015, January 28). Worker illness and injury costs U.S., employers $225.8 billion annually. [https://www.cdcfoundation.org/pr/2015/worker-illness-and-injury-costs-us-employers-225-billion-annually](https://www.cdcfoundation.org/pr/2015/worker-illness-and-injury-costs-us-employers-225-billion-annually)
+- County Health Rankings & Roadmaps. (2023). 2023 Data & Methods. University of Wisconsin Population Health Institute. [https://www.countyhealthrankings.org](https://www.countyhealthrankings.org)
 - Fregly, C., & Barth, A. (2021). Data science on AWS. O'Reilly.
 - Fregly, C., Barth, A., & Eigenbrode, S. (2023). Generative AI on AWS. O'Reilly.
 
