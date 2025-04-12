@@ -8,11 +8,18 @@ Team 1
 To get started with this project, please clone the repository into your local machine using the commands below:
 
 ```bash
-git clone https://github.com/amayranib/ADS-508-team-project.git
-cd ADS-508-team-project
+> git clone https://github.com/amayranib/ADS-508-team-project.git
+> cd ADS-508-team-project
 ```
 
-To execute the pipeline, run the `/code_library/master_notebook.ipynb`. 
+### Environment Setup
+
+Run the notebooks in `env_setup/` to setup the Sagemaker Studio environment for this notebook. 
+
+### Pipeline
+
+To execute the pipeline, run the code in the notebook `/code_library/master_notebook.ipynb`. 
+This will sequentially run all notebooks in the pipeline. 
 
 ## Contributors
 
