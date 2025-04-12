@@ -27,9 +27,9 @@ This will sequentially run all notebooks in the pipeline.
 **Industry**: Business Intelligence for HR & Employee Benefits  
 **Size**: 200
 
-- Amayrani Balbuena
-- Jun Clemente
-- Lorena Dorado
+- [Amayrani Balbuena](https://github.com/amayranib)
+- [Jun Clemente](https://github.com/junclemente)
+- [Lorena Dorado](https://github.com/renaqd)
 
 ## Methods
 
