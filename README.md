@@ -14,7 +14,7 @@ To get started with this project, please clone the repository into your local ma
 
 ### Environment Setup
 
-Run the notebooks in `env_setup/` to setup the Sagemaker Studio environment for this notebook. 
+Run the notebooks in `env_setup/` to setup the Sagemaker Studio environment for this project. 
 
 ### Pipeline
 
