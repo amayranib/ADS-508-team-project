@@ -101,5 +101,5 @@ Portions of this codebase and documentation were developed with assistance from 
 
 ## Presentations and Projects
 
-- Video Presentation: [Link to Canva Presentation]
-- Project Notebook: [Code Library Folder](code_library)
+- Video Presentation: [Presentation](https://youtu.be/Q6PC6oeAXAM)
+- Project Notebook: [Master Notebook](code_library/master_notebook.ipynb)
